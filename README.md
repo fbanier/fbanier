@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Françoise (you can call me Fran /fʁan/), I'm 33 and I'm a curious full-stack dev from Lille 🇫🇷.  <br><br>Coding is something I thoroughly enjoy and I am particularly interested in developing libraries and builders. My ultimate goal is to create something that could help a lot of people. Or, at least, help developpers to gain  time. <br><br>I am a fast learner and I am always eager to acquire new knowledge to aid in my projects. I'm curently learning two languages : Java (&Spring boot) for powerful web applications and C# for video game projects. I also try reactJS for my front-end projects.</p>
+<p align="left">My name is Françoise (you can call me Fran /fʁan/), I'm 33 and I'm a curious full-stack dev from Lille 🇫🇷.  <br><br>Coding is something I thoroughly enjoy and I am particularly interested in developing libraries and builders. My ultimate goal is to create something that could help a lot of people. Or, at least, help developpers to gain  time. <br><br>I am a fast learner and I am always eager to acquire new knowledge to aid in my projects. I'm curently learning two languages : Java (&Spring boot) for powerful web applications and I also try reactJS for my front-end projects.</p>
 
 ###
 
